@@ -344,10 +344,10 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 #hero .hero-img img {
-  /* width: 100%;
-  height: auto; */
-  max-width: 1200px;
-  max-height: 600px;
+  width: 100%;
+  height: auto;
+  /* max-width: 1200px;
+  max-height: 600px; */
 }
 @media (min-width: 1024px) {
   #hero {
